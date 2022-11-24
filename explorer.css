@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: monospace;
+}
+.container{
+    margin-left: 360px;
+}
+.background{
+    background-color: rgb(143, 134, 123);
+    /* width: 1550px; */
+    height: 2100px;
+}
+.EXPLOЯER p{
+    color: white;
+    font-size: 35px;
+    padding-top: 60px;
+}
+.EXPLOЯER span{
+    font-size: 15px;
+}
+.navbar a{
+    color: white;
+    margin: 20px;
+    font-size: 15px;
+    font-weight: 400;
+}
+.navbar a:hover{
+    box-shadow:         0px 5px 0px 0px rgba(50, 50, 50, 0.75);
+}
+.navbar{
+    margin-top: 50px;
+}
+.luke_img{
+    background-image: url(./img/luke\ cage.svg);
+    width: 800px;
+    height: 330px;
+    /* margin-top: 75px; */
+    padding-left: 60px;
+
+}
+.Luke_Cage{
+    padding-top: 160px;
+    display: flex;
+}
+.Luke_Cage p{
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+}
+.Luke_Cage span{
+    font-size: 15px;
+}
+.beautiful{
+    color: white;
+    width: 470px;
+    font-size: 28px;
+    margin-top: 20px;
+}
+.Vestibulum{
+    width: 800px;
+    height: 160px;
+    background-color: white;
+    padding-left: 60px;
+    padding-top: 35px;
+}
+.Vestibulum p{
+    font-size: 15px;
+    width: 664px;
+}
+.Vestibulum a{
+    color: #8D4FDB;
+    font-size: 17px;
+    font-weight: 400;
+}
+.read_more{
+    width: 800px;
+    height: 220px;
+    background-color: #F1F1F1;
+    padding-top: 50px;
+}
+.read_more p{
+    font-size: 36px;
+    line-height: 36px;
+}
+.read_more button{
+    background-color: #8D4FDB;
+    color: white;
+    width: 180px;
+    height: 45px;
+    border: none;
+    margin-top: 20px;
+    font-size: 10px;
+}
+.read_more button:hover{
+    background-color: white;
+    border: 2px solid #8D4FDB;
+    color: #8D4FDB;
+    transition: 1s;
+    transform: scale(1.07,1.07);
+}
+.Featured_Stories{
+    padding-top: 85px;
+    height: 680px;
+}
+.featur p{
+    font-size: 40px;
+}
+.featur span{
+    color: #A9AFB3;
+    font-size: 25px;
+}
+.Jessica_Simpson_img{
+    background-image: url(./img/luke\ cage.svg);
+    background-size: cover;
+    width: 300px;
+    height: 190px;
+}
+.flex{
+    margin-left: 20px;
+}
+.Jessica_Simpson{
+    padding-top: 130px;
+    padding-left: 25px;
+    display: flex;
+}
+.Jessica_Simpson p{
+    margin-left: 10px;
+    font-size: 20px;
+    color: white;
+}
+.Jessica_Simpson span{
+    font-size: 15px;
+}
+.place{
+    margin-top: 25px;
+    width: 270px;
+}
+.display{
+    display: flex;
+    margin-left: 250px;
+}
+.want p{
+    font-size: 15px;
+    margin-top: 60px;
+}
+.want a{
+    color: #8D4FDB;
+}
+footer{
+    background-color: black;
+    width: auto;
+    height: 165px;
+    padding-top: 45px;
+}
+footer p{
+    color: #8B8B8B;
+    margin-top: 10px;
+}
